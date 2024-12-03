@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\models\\modelmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\modelmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\controllers\\companyapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\companyapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|c:\\users\\marci\\desktop\\projekty studia\\aspnet\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E06B8E8F-A659-4EF6-956F-0164A00E27EE}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesContext.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Models\\MoviesContext.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\MoviesContext.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Models\\MoviesContext.cs",
+              "RelativeToolTip": "WebApp\\Models\\MoviesContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwDcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:56:37.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelMovie.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Models\\ModelMovie.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ModelMovie.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Models\\ModelMovie.cs",
+              "RelativeToolTip": "WebApp\\Models\\ModelMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:09:35.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:53:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyApiController.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Controllers\\CompanyApiController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CompanyApiController.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Controllers\\CompanyApiController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CompanyApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:38:19.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:22:35.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T11:21:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:18:09.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\aspnet\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T11:12:22.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApp.Controllers.CompanyApiController",
+    "Method": "GetFiltered",
+    "RelativePath": "api/CompanyApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fragment",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
